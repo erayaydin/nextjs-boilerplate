@@ -4,5 +4,15 @@
   "description": "NextJS App Boilerplate",
   "repository": "https://github.com/erayaydin/nextjs-boilerplate",
   "author": "Eray Aydın <erayaydinn@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
