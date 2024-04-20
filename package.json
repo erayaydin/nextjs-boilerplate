@@ -1,0 +1,8 @@
+{
+  "name": "nextjs-boilerplate",
+  "version": "0.1.0",
+  "description": "NextJS App Boilerplate",
+  "repository": "https://github.com/erayaydin/nextjs-boilerplate",
+  "author": "Eray Aydın <erayaydinn@protonmail.com>",
+  "license": "MIT"
+}
